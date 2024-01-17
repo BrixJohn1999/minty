@@ -36,7 +36,7 @@ We welcome contributions from the community. If you'd like to contribute to Mint
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvement, please create a GitHub Issue [here](https://github.com/your-username/minty/issues).
+If you encounter any issues or have suggestions for improvement, please create a GitHub Issue [here](https://github.com/BrixJohn1999/minty/issues).
 
 ## License
 
