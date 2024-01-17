@@ -16,10 +16,9 @@ Minty is a web-based eCommerce application built to provide users with a user-fr
 
 ## Technologies Used
 
-- React.js for the frontend.
+- Next.js for the frontend.
 - Node.js for the backend.
 - MongoDB for database storage.
-- Additional technologies such as [list any other relevant technologies].
 
 ## Getting Started
 
